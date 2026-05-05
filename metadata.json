@@ -1,0 +1,6 @@
+{
+  "name": "Thyroid Diagnosis System",
+  "description": "An automated biological diagnosis system for thyroid disorders using machine learning to classify patients into Hypothyroid, Hyperthyroid, or Normal categories based on hormone levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
